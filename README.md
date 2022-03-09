@@ -4,6 +4,7 @@
 - - second item
 * third item
 * * fourth item
+* **Bold item**
 - 👋 Hi, I’m @MthokozisiJames
 - 👀 I’m interested in e-commerce
 - 🌱 I’m currently learning C#
