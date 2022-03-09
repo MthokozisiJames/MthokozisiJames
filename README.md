@@ -5,6 +5,9 @@
 * third item
 * * fourth item
 * **Bold item**
+- [] first checklist item
+- [ ] second checklist item
+- [X] checked checklist item 
 - 👋 Hi, I’m @MthokozisiJames
 - 👀 I’m interested in e-commerce
 - 🌱 I’m currently learning C#
