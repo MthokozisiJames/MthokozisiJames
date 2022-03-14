@@ -9,6 +9,11 @@
 - [ ] second checklist item
 - [X] checked checklist item 
 #1
+😃
+🆒
+😎
+
+
 - 👋 Hi, I’m @MthokozisiJames
 - 👀 I’m interested in e-commerce
 - 🌱 I’m currently learning C#
